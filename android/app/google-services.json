@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981393688687",
+    "project_id": "phone-auth-example-803e6",
+    "storage_bucket": "phone-auth-example-803e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981393688687:android:45977976d9c976f514659a",
+        "android_client_info": {
+          "package_name": "com.example.phone_authentication_firebase_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981393688687-0j3spb3tkfudm71a23fmtgei8putncgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJmKStxLOSdmdugfA9-Z_EXk-CuQI3PNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981393688687-0j3spb3tkfudm71a23fmtgei8putncgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
